@@ -9,3 +9,5 @@
 
 📫 Connect with me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sandeep-vishwakarma-1a644331b)
+![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeep-vishwakarma&show_icons=true&count_private=true&hide_title=true&hide=prs)
+
